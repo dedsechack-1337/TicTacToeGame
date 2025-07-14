@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToeGame</string>
+    <string name="heading">Welcome to Tic-Tac-Toe Game (dev - Amit Roy)</string>
+    <string name="statusBar">X\'s Turn - Tap To Play</string>
+</resources>
